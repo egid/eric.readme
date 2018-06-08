@@ -4,6 +4,8 @@ Welcome to UX Engineering! I'm glad you're here.
 
 This is a rough, in-progress guide to working with me. It's a contract for what you can expect from me, like 1:1s, communication styles, when I'm around, that sort of thing. 
 
+To be clear: you don't have to read this. It's a way for me to get some of this stuff out of my head and on paper, so that I can make sure I bring it up in Real Life.
+
 A robot claims this should take under 4 minutes to read! If you think I missed something, wrote too much, or got it all wrong, please let me know. Contributions are welcome. :D
 
 
