@@ -22,7 +22,7 @@ I also try to keep the team's impact on Redfin positive and obvious to the rest 
 
 ## Feedback
 
-Everybody says this, so here goes: I want your feedback. It doesn't matter if it is positive or negative, I'd prefer to hear something blunt so that I can try to improve.
+Everybody says this, so here goes: I want your feedback. It doesn't matter if it is positive or negative, I'd prefer to hear something blunt so that I can try to improve. [You can use this anonymous form, if you'd like][feedback].
 
 I'll try to provide the same honest, constructive feedback to you. Redfin has embraced [Radical Candor][RC] as a framework for this. If you've got preferences about how and when you receive feedback, please let me know so that I can do the right thing.
 
@@ -57,3 +57,4 @@ Keeping a good work/life balance is important to me, and I hope it's important t
 
 
 [RC]: https://www.radicalcandor.com/about-radical-candor/
+[feedback]: https://goo.gl/forms/lgisXUxPTGGG7IoP2
