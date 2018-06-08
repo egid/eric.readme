@@ -22,7 +22,7 @@ I also try to keep the team's impact on Redfin positive and obvious to the rest 
 
 Everybody says this, so here goes: I want your feedback. It doesn't matter if it is positive or negative, I'd prefer to hear something blunt so that I can try to improve.
 
-I'll try to provide the same honest, constructive feedback[^See: [Radical Candor](https://www.radicalcandor.com/about-radical-candor/), or whatever justification you like best] to you. If you've got preferences about how and when you receive feedback, please let me know so that I can do the right thing.
+I'll try to provide the same honest, constructive feedback to you. Redfin has embraced [Radical Candor][RC] as a framework for this. If you've got preferences about how and when you receive feedback, please let me know so that I can do the right thing.
 
 
 ## 1:1s and general calendar stuff
@@ -54,3 +54,4 @@ Keeping a good work/life balance is important to me, and I hope it's important t
 - I'm a pilot. I occasionally nerd out about airplanes. How do you know there's a pilot at your party? They'll tell you. Sorry in advance.
 
 
+[RC]: https://www.radicalcandor.com/about-radical-candor/
