@@ -9,27 +9,16 @@ To be clear: you don't have to read this. It's a way for me to get some of this 
 A robot claims this should take under 4 minutes to read! If you think I missed something, wrote too much, or got it all wrong, please let me know. Contributions are welcome. :D
 
 
-## My role
-
-I'm (mostly) here to make your job easier. That means different things to different people. Here's some of what it means to me:
-
-- I will help you protect your time and pick the right workload;
-- I guide our team through triage, planning, and coordination with other engineering teams;
-- I can help guide your career and find ways for you to grow as a developer;
-
-I also try to keep the team's impact on Redfin positive and obvious to the rest of the organization. We exist to connect design and engineering, and to make engineers' lives easier. If you think we could be doing better — at our work, or at sharing our work — let's talk.
-
-
 ## Feedback
 
-Everybody says this, so here goes: I want your feedback. It doesn't matter if it is positive or negative, I'd prefer to hear something blunt so that I can try to improve. [You can use this anonymous form, if you'd like][feedback].
+Everybody says this, so here goes: I want your feedback. It doesn't matter if it is positive or negative, I'd prefer to hear something blunt so that I can try to improve. [You can use this anonymous form, if you'd like][feedback]. If you think we _as a team_ could be doing better — at our work, or at sharing our work — please share.
 
 I'll try to provide the same honest, constructive feedback to you. Redfin has embraced [Radical Candor][RC] as a framework for this. If you've got preferences about how and when you receive feedback, please let me know so that I can do the right thing.
 
 
 ## 1:1s and general calendar stuff
 
-Every week, I’ll put 30 minutes on your calendar each week for 1:1s. If you want more time, edit the event or let me know on Slack. If weekly 1:1s feel too heavy, we can cut back. I'll add a Google Doc to the invite for both of us to add discussion topics and track previous topics and tasks. If you'd prefer some other method, again, let me know!
+Every week, I’ll put 30 minutes on your calendar each week for 1:1s. If you want more time, edit the event or let me know on Slack. If weekly 1:1s feel too heavy, we can cut back. I'll add a Google Doc to the invite for both of us to add discussion topics and track previous topics and tasks. If you'd prefer some other method, again, let me know! I'm here to make your job easier.
 
 All my calendar invites (including 1:1s) allow invitees to edit them by default. Feel free to reschedule 1:1s, add reading material to team events, whatever.  
 
