@@ -18,7 +18,7 @@ I'll try to provide the same honest, constructive feedback to you. Redfin has em
 
 ## 1:1s and general calendar stuff
 
-Every week, I’ll put 30 minutes on your calendar each week for 1:1s. If you want more time, edit the event or let me know on Slack. If weekly 1:1s feel too heavy, we can cut back. I'll add a Google Doc to the invite for both of us to add discussion topics and track previous topics and tasks. If you'd prefer some other method, again, let me know! I'm here to make your job easier.
+I’ll put 30 minutes on your calendar each week for 1:1s. If you want more time, edit the event or let me know on Slack. If weekly 1:1s feel too heavy, we can cut back. I'll add a Google Doc to the invite for both of us to add discussion topics and track previous topics and tasks. If you'd prefer some other method, again, let me know! I'm here to make your job easier.
 
 All my calendar invites (including 1:1s) allow invitees to edit them by default. Feel free to reschedule 1:1s, add reading material to team events, whatever.  
 
