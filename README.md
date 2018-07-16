@@ -27,7 +27,7 @@ I keep Monday afternoons and Thursday mornings blocked off ("Unavailable"). If y
 
 ### Career growth
 
-I reserve one per month to talk about how you feel about your role. This supplements the 6-month "check-in conversations" that Redfin uses instead of annual reviews. You can have 'em less often if you want — once a quarter might make sense for Senior+ Engineers — but this is my default. These career 1:1s help you and I plan your next promotion or make you more comfortable in your current role.
+I take time each month to talk about how you feel about your career; these 1:1s help you and I plan your next promotion or make you more comfortable in your current role. This supplements the 6-month "check-in conversations" that Redfin uses instead of annual reviews. You can have 'em less often if you want — once a quarter might make sense for Senior+ Engineers — but this is my default.
 
 
 ## Work/life balance
